@@ -1,5 +1,32 @@
 h1 {
-    color: rebeccapurple;
+    color: rgba(231, 24, 24, 0.301);
     font-size: 50px;
 }
 
+h2 {
+    color: rgb(43, 57, 97);
+    font-size: 80px;
+}
+
+p {
+    color:bisque;
+    font-size: 34px;
+}
+h1 {
+    background-color: rebeccapurple;
+}
+
+h2{
+    background-color: crimson;
+}
+
+p {
+    background-color: coral;
+}
+.green {
+    color: rgb(4, 41, 252);
+}.
+
+#origin {
+    color: rgba(180, 39, 39, 0.459);
+}
